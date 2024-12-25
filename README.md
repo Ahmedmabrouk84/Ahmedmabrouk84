@@ -1,7 +1,7 @@
-<h1>  <code> < / Ahmed Mabrouk ></code>   👋</h1>
+<h1><code> < / Ahmed Mabrouk ></code> 👋</h1>
 <!--
 ## Hi there 👋
-**Ahmedmabrouk84/Ahmedmabrouk84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ahmedmabrouk84/Ahmedmabrouk84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
