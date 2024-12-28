@@ -6,3 +6,11 @@
           width="65px"
           height="65px" 
       />
+<h2>About Me</h2>
+      <p>
+        Passionate web developer experienced in building dynamic and responsive
+        websites. Skilled in HTML, CSS and JavaScript with a strong
+        understanding of modern web development frameworks specially Angular.
+        Seeking to leverage my skills and knowledge in a challenging web
+        development role
+      </p>
