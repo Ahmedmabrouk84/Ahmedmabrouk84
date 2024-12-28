@@ -6,6 +6,12 @@
           width="65px"
           height="65px" 
       />
+ <img
+          src="https://tse1.mm.bing.net/th?id=OIP.nmO9hQNJVwi-Vm51RR7AwAHaHa&pid=Api&P=0&h=220"
+          style="border-radius: 50"
+          width="65px"
+          height="65px" 
+      />
 <h2>About Me</h2>
       <p>
         Passionate web developer experienced in building dynamic and responsive
