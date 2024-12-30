@@ -12,8 +12,6 @@
           width="65px"
           height="65px" 
       />
- <img
-          src="https://www.onlinecoursereport.com/wp-content/uploads/2020/06/shutterstock_1150510607-2048x1024.jpg"
 
 <h2>About Me</h2>
       <p>
