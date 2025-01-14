@@ -13,7 +13,7 @@
           height="65px" 
       /> -->
 
-<h2>About Me</h2>
+<h2>Summary</h2>
       <p>
         Passionate web developer experienced in building dynamic and responsive
         websites. Skilled in HTML, CSS and JavaScript with a strong
