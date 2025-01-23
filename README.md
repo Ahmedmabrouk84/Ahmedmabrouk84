@@ -23,7 +23,7 @@
       </p> -->
       Front-End Developer with expertise in building dynamic and responsive web applications using Angular, proficient in modern web technologies such as HTML5, CSS3, TypeScript, and JavaScript (ES6+). Experienced in performance optimization and designing standout user interfaces using advanced tools like RESTful APIs.
 
-Key Skills:
+<h2>Key Skills:</h2>
 
 Developing Angular applications
 Enhancing user experience and performance
