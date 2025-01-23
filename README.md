@@ -30,3 +30,6 @@ Developing Angular applications
 Enhancing user experience and performance
 Designing responsive and visually appealing interfaces
 Data integration using RESTful APIs
+Designing responsive interfaces with HTML5, CSS3, and Sass
+Version control tools (Git), TypeScript And JavaScript (ES6+)
+
