@@ -31,7 +31,7 @@ development role
 <img src="https://camo.githubusercontent.com/f84663f39e8a7afaf21d5293d81630a309ca2bbe46817b033fc4161de16db30e/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e65746c6966796170705f77617465726373732f6e65746c6966796170705f77617465726373732d617232312e737667">
 
 
-<h2>Key Skills:</h2>
+<h2>Skills:</h2>
 
 Developing Angular applications
 Enhancing user experience and performance
