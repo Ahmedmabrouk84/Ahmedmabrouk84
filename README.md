@@ -3,7 +3,7 @@
 <h1 align="center"><code> < / Ahmed Mabrouk ></code> 👋</h1>
 
 
-<h2 align="center" >About Me</h2>
+<h2 align="center" >Summary</h2>
 
 <p align="center">
 Passionate web developer experienced in building dynamic and responsive
