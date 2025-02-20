@@ -1,6 +1,6 @@
 
 
-<h1 align="center"><code> < / Ahmed Mabrouk ></code>Hi 👋</h1>
+<h1 align="center"><code> < / Ahmed Mabrouk ></code> 👋</h1>
 
 
 <h4 align="center">
