@@ -33,3 +33,4 @@ Data integration using RESTful APIs
 Designing responsive interfaces with HTML5, CSS3, and Sass
 Version control tools (Git), TypeScript And JavaScript (ES6+)
 
+https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
