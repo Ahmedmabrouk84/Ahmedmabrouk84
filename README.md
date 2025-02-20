@@ -5,7 +5,7 @@
 
 <h2 >Summary</h2>
 
-<p align="center">
+<p>
 Passionate web developer experienced in building dynamic and responsive
 websites. Skilled in HTML, CSS and JavaScript with a strong
 understanding of modern web development frameworks specially Angular.
