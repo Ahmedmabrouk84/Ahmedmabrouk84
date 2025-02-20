@@ -1,8 +1,8 @@
 
 
+<h1 align="center"><code>Hi < / Ahmed Mabrouk ></code> 👋</h1>
 
 
-<h1 align="center">Hi 👋, I'm Ahmed Mabrouk</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
 <h3 align="left">Connect with me:</h3>
