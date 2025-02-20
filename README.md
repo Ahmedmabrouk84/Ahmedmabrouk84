@@ -3,13 +3,15 @@
 <h1 align="center"><code> < / Ahmed Mabrouk ></code> 👋</h1>
 
 
-<h4 align="center">
+<h2 align="center" >About Me</h2>
+
+<p align="center">
 Passionate web developer experienced in building dynamic and responsive
 websites. Skilled in HTML, CSS and JavaScript with a strong
 understanding of modern web development frameworks specially Angular.
 Seeking to leverage my skills and knowledge in a challenging web
 development role
-</h4>
+</p>
 
 
 <p align="left">
@@ -56,7 +58,6 @@ development role
           height="65px" 
       /> -->
 
-<h2>About Me</h2>
       <p>
         
       </p>
