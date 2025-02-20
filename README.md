@@ -43,27 +43,22 @@ development role
 
 
 
-<h1><code> < / Ahmed Mabrouk ></code> 👋</h1>
+
 <!-- <h2>Skills</h2> -->
-<!--  <img
+  <img
           src="https://tse1.mm.bing.net/th?id=OIP.jr4Il2wCtgna9dRso6FPBQHaD4&pid=Api&P=0&h=220"
           style="border-radius: 50"
           width="65px"
           height="65px" 
-      />
- <img
+      /><img
           src="https://tse1.mm.bing.net/th?id=OIP.nmO9hQNJVwi-Vm51RR7AwAHaHa&pid=Api&P=0&h=220"
           style="border-radius: 50"
           width="65px"
           height="65px" 
-      /> -->
+      /> 
 
-      <p>
-        
-      </p>
-<!--       Front-End Developer Angular with expertise in building dynamic and responsive web applications using Angular, proficient in modern web technologies such as HTML5, CSS3, TypeScript, and 
-       JavaScript (ES6+). Experienced in performance optimization and designing standout user interfaces using advanced tools like RESTful APIs.
- -->
+
+ 
 <h2>Key Skills:</h2>
 
 Developing Angular applications
