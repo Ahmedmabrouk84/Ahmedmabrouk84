@@ -23,14 +23,6 @@ development role
 
 
 
-
-
-
-
-
-
-
-
 <br>
 <br>
 <br>
@@ -38,22 +30,6 @@ development role
 <br>
 
 
-
-
-
-
-
-
-<!-- <h2>Skills</h2> -->
-<img
-          src="https://tse1.mm.bing.net/th?id=OIP.nmO9hQNJVwi-Vm51RR7AwAHaHa&pid=Api&P=0&h=220"
-          style="border-radius: 50"
-          width="65px"
-          height="65px" 
-      /> 
-
-
- 
 <h2>Key Skills:</h2>
 
 Developing Angular applications
