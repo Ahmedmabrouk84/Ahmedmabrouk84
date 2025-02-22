@@ -23,9 +23,9 @@ development role
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="70" height="70"/> </a> 
  </p>
 
-h3> Database </h3>
+<h3> Database </h3>
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/> </a>
  
 <h3 align="left">Tools: </h3>
 
@@ -33,7 +33,7 @@ h3> Database </h3>
 
  
 <br>
-<
+
 
 
 <h3 align="left">Languages and Tools:</h3>
