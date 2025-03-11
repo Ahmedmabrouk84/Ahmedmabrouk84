@@ -1,6 +1,6 @@
 <h1 align="center"><code> < / Ahmed Mabrouk ></code> 👋</h1>
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com/?lines= Code +Is +Like +Magic!;Every +Line +You +Write ; Can +Change The +World+🚀🌍&font=green%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+ <img src="https://readme-typing-svg.demolab.com/?lines= Code +Is +Like +Magic!;Every +Line +You +Write ; Can +Change The +World+🚀🌍&font=green%20Code&center=true&width=400&height=60&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 <h2 >Summary</h2>
